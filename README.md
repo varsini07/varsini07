@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Varsini SR</h1>
 <h3 align="center">An enthusiastic learner with proficient analytical skills, intuitively developing web development skills, and expanding my knowledge in cutting-edge technologies.</h3>
 
-- 🔭 I’m currently pursing my **M.Tech Integrated degree in CSE with a specialization in Business Analytics at Vellore Institute of Technology, Chennai.**
+🔭 I’m currently pursing my **M.Tech Integrated degree in CSE with a specialization in Business Analytics at Vellore Institute of Technology, Chennai.**
 
-- 🌱 I’m currently learning **web development frameworks like HTML, CSS, Javascript, Node.Js, React.Js**
+🌱 I’m currently learning **web development frameworks like HTML, CSS, Javascript, Node.Js, React.Js**
 
 <h3 align="left"> 📄Experiences:</h3>
 
@@ -23,7 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programing languages:</h4>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/></a>
+
 
 <h4 align="left">Databases:</h4> 
 <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
