@@ -16,9 +16,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/varsinisr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsinisr" height="30" width="40" /></a>
+
+<h3 align="center">Coding Profiles:</h3>
 <a href="https://www.hackerrank.com/varsinisara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varsinisara7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/varsini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varsini" height="30" width="40" /></a>
-</p>
+</p> <a href="https://www.codingninjas.com/studio/profile/fc410415-8cfd-47b2-b7ea-eaf0cdf23734" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codingninjas.svg" alt="Coding Ninjas" height="30" width="40" />
+</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
