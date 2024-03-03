@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **web development frameworks like HTML, CSS, Javascript, Node.Js, React.Js**
 
-<h3 align='left"> 📄Experiences:</h3>
+<h3 align="left"> 📄Experiences:</h3>
 
 - Expertise in analyzing large datasets using statistical methods and machine learning algorithms to derive meaningful insights. Proficient in visualizing data effectively to communicate findings clearly.
 
