@@ -21,7 +21,8 @@
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/varsinisara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varsinisara7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varsini" target="blank"><img align="center" background-color ="grey" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="varsini" height="30" width="40" /></a> <a href="https://www.codingninjas.com/studio/profile/fc410415-8cfd-47b2-b7ea-eaf0cdf23734" target="_blank" rel="noreferrer"> <img align="center" src="https://files.codingninjas.in/cn-logo-onboarding-28449.svg" alt="Coding Ninjas" height="100" width="100" /> </a>
+<a href="https://www.leetcode.com/varsini" target="_blank" rel="noreferrer"> <span style="display: inline-block; background-color: grey;"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="varsini" height="30" width="40" /> </span></a>
+ <a href="https://www.codingninjas.com/studio/profile/fc410415-8cfd-47b2-b7ea-eaf0cdf23734" target="_blank" rel="noreferrer"> <img align="center" src="https://files.codingninjas.in/cn-logo-onboarding-28449.svg" alt="Coding Ninjas" height="100" width="100" /> </a>
 </p>
 
 
