@@ -21,7 +21,7 @@
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/varsinisara7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varsinisara7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varsini" target="_blank" rel="noreferrer"> <span style="display: inline-block; background-color: grey;"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varsini" height="30" width="40" /> </span></a>
+<a href="https://www.leetcode.com/varsini" target="blank"><img align="center" background-color ="grey" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varsini" height="30" width="40" /></a>
  <a href="https://www.codingninjas.com/studio/profile/fc410415-8cfd-47b2-b7ea-eaf0cdf23734" target="_blank" rel="noreferrer"> <img align="center" src="https://files.codingninjas.in/cn-logo-onboarding-28449.svg" alt="Coding Ninjas" height="100" width="100" /> </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 
 <h4 align="left">Databases:</h4> 
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="40" height="40"/> </a>
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=64&hei=64&qlt=100&fmt=png-alpha&fit=constrain" alt="Excel" width="40" height="40"/> </a>
 
 
 
